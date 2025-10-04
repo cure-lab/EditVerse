@@ -16,7 +16,7 @@ This repository provides the **instruction-based video editing evaluation code**
   <a href="http://editverse.s3-website-us-east-1.amazonaws.com/comparison.html">👀 Comparison</a>
 </p>
 
-
+This code was developed independently by Xuan Ju after leaving Adobe Inc. It is not associated with, nor does it reflect, any internal code or proprietary resources of Adobe.
 
 ## 🚀 Setup Environment
 
@@ -183,4 +183,4 @@ python eval.py --metrics all \
 
 Our code is modified on the basis of [V2VBench](https://github.com/wenhao728/awesome-diffusion-v2v), thanks to all the contributors!
 
-This code was developed independently by Xuan Ju after leaving Adobe Inc. It is not associated with, nor does it reflect, any internal code or proprietary resources of Adobe.
+
