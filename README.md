@@ -119,7 +119,7 @@ python eval.py --metrics all \
 
 ## Evaluate Your Own Model
 
-**1: Benchmark JSON format**
+**Step 1: Benchmark JSON format**
 
 See [EditVerseBench/EditVerseBench/test.json](https://huggingface.co/datasets/sooyek/EditVerseBench/blob/main/EditVerseBench/EditVerseBench.json) for reference.
 
