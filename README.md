@@ -113,7 +113,7 @@ python eval.py --metrics all \
 --gpt_api_key [Your API key]
 ```
 
-👉 Pre-computed results are available here: [EditVerseBench/automatic_evaluation_results](https://huggingface.co/datasets/juxuan27/EditVerseBench/tree/main/automatic_evaluation_results).
+👉 Pre-computed results are available here: [EditVerseBench/automatic_evaluation_results](https://huggingface.co/datasets/sooyek/EditVerseBench/blob/main/automatic_evaluation_results).
 
 
 
