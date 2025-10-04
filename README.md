@@ -51,6 +51,17 @@ git lfs install
 git clone https://huggingface.co/datasets/juxuan27/EditVerseBench
 ```
 
+**Download the videos**
+
+The source videos cannot be directly distributed due to licensing restrictions. Instead, you can download them using the provided script with the Pixabay API. (The network connection may occasionally fail, so you might need to run the script multiple times.)
+
+> ⚠️ Note: Please remember to revise the API key to your own key in download_source_video.py. You can find the API key here (marked in Parameters-key(required) on the website). The API is free, but you need to sign up for an account to have the API key. 
+
+```
+cd EditVerseBench
+python download_source_video.py
+```
+
 **Unpack generated results**
 
 ```
